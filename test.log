@@ -1,0 +1,2608 @@
+<object-stream>
+<org.drools.core.audit.WorkingMemoryLog>
+  <version>6.1</version>
+  <events>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=0; $e=0; $m=50</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=0; $e=0; $m=50</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=1; $e=1; $m=49</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=1; $e=1; $m=49</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=1; $e=1; $m=49</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=2; $e=2; $m=48</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=2; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=2; $e=2; $m=48</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=2; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=3; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=3; $e=1; $m=48</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=4; $e=2; $m=47</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=4; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=4; $e=2; $m=47</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=4; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=5; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=5; $e=1; $m=47</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=6; $e=2; $m=46</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=6; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=6; $e=2; $m=46</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=6; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=7; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=7; $e=1; $m=46</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=8; $e=2; $m=45</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=8; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=8; $e=2; $m=45</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=8; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=9; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=9; $e=1; $m=45</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=10; $e=2; $m=44</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=10; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=10; $e=2; $m=44</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=10; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=11; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=11; $e=1; $m=44</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=12; $e=2; $m=43</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=12; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=12; $e=2; $m=43</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=12; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=13; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=13; $e=1; $m=43</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=14; $e=2; $m=42</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=14; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=14; $e=2; $m=42</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=14; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=15; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=15; $e=1; $m=42</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=16; $e=2; $m=41</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=16; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=16; $e=2; $m=41</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=16; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=17; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=17; $e=1; $m=41</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=18; $e=2; $m=40</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=18; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=18; $e=2; $m=40</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=18; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=19; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=19; $e=1; $m=40</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=20; $e=2; $m=39</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=20; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=20; $e=2; $m=39</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=20; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=21; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=21; $e=1; $m=39</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=22; $e=2; $m=38</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=22; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=22; $e=2; $m=38</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=22; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=23; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=23; $e=1; $m=38</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=24; $e=2; $m=37</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=24; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=24; $e=2; $m=37</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=24; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=25; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=25; $e=1; $m=37</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=26; $e=2; $m=36</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=26; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=26; $e=2; $m=36</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=26; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=27; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=27; $e=1; $m=36</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=28; $e=2; $m=35</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=28; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=28; $e=2; $m=35</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=28; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=29; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=29; $e=1; $m=35</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=30; $e=2; $m=34</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=30; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=30; $e=2; $m=34</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=30; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=31; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=31; $e=1; $m=34</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=32; $e=2; $m=33</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=32; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=32; $e=2; $m=33</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=32; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=33; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=33; $e=1; $m=33</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=34; $e=2; $m=32</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=34; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=34; $e=2; $m=32</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=34; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=35; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=35; $e=1; $m=32</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=36; $e=2; $m=31</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=36; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=36; $e=2; $m=31</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=36; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=37; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=37; $e=1; $m=31</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=38; $e=2; $m=30</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=38; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=38; $e=2; $m=30</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=38; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=39; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=39; $e=1; $m=30</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=40; $e=2; $m=29</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=40; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=40; $e=2; $m=29</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=40; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=41; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=41; $e=1; $m=29</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=42; $e=2; $m=28</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=42; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=42; $e=2; $m=28</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=42; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=43; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=43; $e=1; $m=28</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=44; $e=2; $m=27</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=44; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=44; $e=2; $m=27</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=44; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=45; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=45; $e=1; $m=27</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=46; $e=2; $m=26</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=46; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=46; $e=2; $m=26</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=46; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=47; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=47; $e=1; $m=26</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=48; $e=2; $m=25</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=48; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=48; $e=2; $m=25</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=48; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=49; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=49; $e=1; $m=25</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=50; $e=2; $m=24</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=50; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=50; $e=2; $m=24</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=50; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=51; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=51; $e=1; $m=24</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=52; $e=2; $m=23</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=52; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=52; $e=2; $m=23</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=52; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=53; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=53; $e=1; $m=23</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=54; $e=2; $m=22</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=54; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=54; $e=2; $m=22</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=54; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=55; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=55; $e=1; $m=22</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=56; $e=2; $m=21</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=56; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=56; $e=2; $m=21</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=56; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=57; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=57; $e=1; $m=21</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=58; $e=2; $m=20</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=58; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=58; $e=2; $m=20</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=58; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=59; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=59; $e=1; $m=20</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=60; $e=2; $m=19</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=60; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=60; $e=2; $m=19</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=60; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=61; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=61; $e=1; $m=19</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=62; $e=2; $m=18</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=62; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=62; $e=2; $m=18</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=62; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=63; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=63; $e=1; $m=18</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=64; $e=2; $m=17</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=64; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=64; $e=2; $m=17</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=64; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=65; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=65; $e=1; $m=17</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=66; $e=2; $m=16</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=66; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=66; $e=2; $m=16</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=66; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=67; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=67; $e=1; $m=16</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=68; $e=2; $m=15</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=68; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=68; $e=2; $m=15</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=68; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=69; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=69; $e=1; $m=15</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=70; $e=2; $m=14</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=70; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=70; $e=2; $m=14</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=70; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=71; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=71; $e=1; $m=14</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=72; $e=2; $m=13</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=72; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=72; $e=2; $m=13</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=72; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=73; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=73; $e=1; $m=13</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=74; $e=2; $m=12</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=74; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=74; $e=2; $m=12</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=74; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=75; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=75; $e=1; $m=12</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=76; $e=2; $m=11</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=76; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=76; $e=2; $m=11</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=76; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=77; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=77; $e=1; $m=11</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=78; $e=2; $m=10</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=78; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=78; $e=2; $m=10</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=78; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=79; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=79; $e=1; $m=10</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=80; $e=2; $m=9</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=80; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=80; $e=2; $m=9</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=80; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=81; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=81; $e=1; $m=9</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=82; $e=2; $m=8</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=82; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=82; $e=2; $m=8</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=82; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=83; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=83; $e=1; $m=8</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=84; $e=2; $m=7</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=84; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=84; $e=2; $m=7</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=84; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=85; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=85; $e=1; $m=7</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=86; $e=2; $m=6</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=86; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=86; $e=2; $m=6</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=86; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=87; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=87; $e=1; $m=6</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=88; $e=2; $m=5</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=88; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=88; $e=2; $m=5</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=88; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=89; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=89; $e=1; $m=5</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=90; $e=2; $m=4</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=90; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=90; $e=2; $m=4</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=90; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=91; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=91; $e=1; $m=4</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=92; $e=2; $m=3</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=92; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=92; $e=2; $m=3</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=92; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=93; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=93; $e=1; $m=3</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=94; $e=2; $m=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=94; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=94; $e=2; $m=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=94; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=95; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=95; $e=1; $m=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=96; $e=2; $m=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=96; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=96; $e=2; $m=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=96; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=97; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=97; $e=1; $m=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=98; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>和了一瓶汽水 [1]</activationId>
+      <rule>和了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=98; $e=2; $m=0</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=98; $e=2</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>结束 [1]</activationId>
+      <rule>结束</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>2</type>
+      <factId>1</factId>
+      <objectToString>com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>用两个空瓶换了一瓶汽水 [1]</activationId>
+      <rule>用两个空瓶换了一瓶汽水</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c; $d=99; $e=1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>结束 [1]</activationId>
+      <rule>结束</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>结束 [1]</activationId>
+      <rule>结束</rule>
+      <declarations>$c=com.jsptpd.rjy.zyj.main.SoftDrink$Customer@68c9133c</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+  </events>
+  <engine>RETEOO</engine>
+</org.drools.core.audit.WorkingMemoryLog>
+</object-stream>
